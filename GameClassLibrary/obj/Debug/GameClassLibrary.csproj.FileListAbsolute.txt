@@ -1,0 +1,5 @@
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\GameClassLibrary\GameClassLibrary\bin\Debug\GameClassLibrary.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\GameClassLibrary\GameClassLibrary\bin\Debug\GameClassLibrary.pdb
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\GameClassLibrary\GameClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\GameClassLibrary\GameClassLibrary\obj\Debug\GameClassLibrary.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\GameClassLibrary\GameClassLibrary\obj\Debug\GameClassLibrary.pdb
