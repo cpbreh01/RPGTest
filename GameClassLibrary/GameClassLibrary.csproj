@@ -41,6 +41,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Character.cs" />
+    <Compile Include="Classes\CharacterBase.cs" />
+    <Compile Include="Classes\CharClasses.cs" />
+    <Compile Include="Classes\Equipment.cs" />
     <Compile Include="Game.cs" />
     <Compile Include="Gear.cs" />
     <Compile Include="Player.cs" />
